@@ -1,3 +1,4 @@
+/* ===== TMDEB Proxy ===== */
 (function () {
     'use strict';
 
@@ -28,8 +29,9 @@
 
 })();
 
-/* AAAAAAAAAA */
 
+
+/* ===== Start ===== */
 (function () {
     'use strict';
     Lampa.Platform.tv();
